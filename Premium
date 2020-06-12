@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, IEDCR Channel
+#EXTINF:0,IEDCR Channel
 #EXTGRP:unsorted
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dhakalive-low.stream/chunks.m3u8
 #EXTINF:0,BTV National
@@ -13,8 +13,6 @@ https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 http://starshare.cc:41000/tuhin9/tuhin9/406
 #EXTINF:0,ATN Bangla
 #EXTGRP:unsorted
-#EXTINF:0,Fox Life HD
-http://starshare.cc:41000/tuhin9/tuhin9/2115
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8
 #EXTINF:0,Star Jalsha HD
 #EXTGRP:unsorted
@@ -22,9 +20,15 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:0,Jalsha Movies HD
 #EXTGRP:unsorted
 http://starshare.cc:41000/tuhin9/tuhin9/425
+#EXTINF:0,Jalsha Movies HD
+#EXTGRP:unsorted
+http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:0,Zee Bangla SD
 #EXTGRP:unsorted
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:0,Zee Bangla HD
+#EXTGRP:unsorted
+http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:0,Zee Bangla HD
 #EXTGRP:unsorted
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/124.m3u8
@@ -304,6 +308,9 @@ https://streamhoichoi.multitvsolution.in/KolkataTV-h/playlist.m3u8
 #EXTINF:0,Ajtak HD
 #EXTGRP:unsorted
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+#EXTINF:0,APN News
+#EXTGRP:unsorted
+https://edge01.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 #EXTINF:0,CNN
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8
@@ -316,7 +323,7 @@ http://103.205.133.14/hls/aljazeera.m3u8
 #EXTINF:0,1 Yes News
 #EXTGRP:unsorted
 http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
-#EXTINF:0, Nick Bangla
+#EXTINF:0,Nick Bangla
 #EXTGRP:unsorted
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:0,Nick Hindi
@@ -352,6 +359,9 @@ http://103.144.200.7:8080/hls/bigmagic/index.m3u8
 #EXTINF:0,Kids Central
 #EXTGRP:unsorted
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
+#EXTINF:0,Star Plus SD
+#EXTGRP:unsorted
+https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:0,Star Plus HD
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/playlist.m3u8
@@ -364,6 +374,18 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/playlist.m3u8
 #EXTINF:0,Colors Super
 #EXTGRP:unsorted
 http://starshare.cc:41000/tuhin9/tuhin9/163
+#EXTINF:0,Colors Reshtey
+#EXTGRP:unsorted
+https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+#EXTINF:0,Color Cineplex SD
+#EXTGRP:unsorted
+http://107.152.234.10:8080/indian/hindi-COLORSCINEPLEXUK/index.m3u8
+#EXTINF:0,Cineplex HD
+#EXTGRP:unsorted
+http://starshare.cc:41000/tuhin9/tuhin9/867
+#EXTINF:0,Color Infinity HD
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:0,Star Gold SD
 #EXTGRP:unsorted
 http://iptv.kitv.live:1935/live/Shari/MTV-P/141.m3u8
@@ -376,12 +398,21 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+#EXTINF:0,Star Gold Select HD
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:0,Star Bharat HD
 #EXTGRP:unsorted
 http://starshare.cc:41000/tuhin12/tuhin12/199
+#EXTINF:0,Star Bharat HD
+#EXTGRP:unsorted
+http://103.214.202.218:8081/live/hbo-64/chunks.m3u8
 #EXTINF:0,Star Bharat
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/star_bharat/playlist.m3u8
+#EXTINF:0,Star Movies HD
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:0,Star Movies HD
 #EXTGRP:unsorted
 http://175.41.46.16:8081/hls/2.m3u8
@@ -397,7 +428,10 @@ http://103.205.133.50/hls/sonymax.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:unsorted
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1592017725~acl=%2f*~data=hdntl~hmac=7ead764f3bc05b6ad195f31727d29e8bc91cba698507a58bf0d55b626a93e008/master_2000.m3u8
-#EXTINF:0,Sony Pix 
+#EXTINF:0,Sony Max 2 SD
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:0,Sony Pix
 #EXTGRP:unsorted
 http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:0,Sony Pix HD
@@ -427,15 +461,12 @@ http://ddn.amrbd.com:8081/live/andtv-27/chunks.m3u8
 #EXTINF:0,And Prive HD
 #EXTGRP:unsorted
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-#EXTINF:0,Cineplex HD
-#EXTGRP:unsorted
-http://starshare.cc:41000/tuhin9/tuhin9/867
-#EXTINF:0,Zee Cinema 
+#EXTINF:0,Zee Cinema
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:unsorted
-http://starshare.cc:41000/tuhin9/tuhin9/230
+http://tv.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,Zee Tv SD
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
@@ -475,9 +506,6 @@ http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:0,B4U Kadak
 #EXTGRP:unsorted
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:0,Colors Reshtey
-#EXTGRP:unsorted
-https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:0,HBO HD
 #EXTGRP:unsorted
 http://starshare.cc:41000/tuhin12/tuhin12/150
@@ -562,7 +590,7 @@ https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8
 #EXTINF:0,Andflix HD
 #EXTGRP:unsorted
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-#EXTINF:0,AXN 
+#EXTINF:0,AXN
 #EXTGRP:unsorted
 http://iptv.kitv.live:1935/live/Shari/MTV-P/151.m3u8
 #EXTINF:0,Kix HD
@@ -622,9 +650,6 @@ http://103.205.133.42:1935/live/animal_planet_hd_720/chunklist_w633002854.m3u8
 #EXTINF:0,CNBC
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/cnbc/playlist.m3u8
-#EXTINF:0,Fox Live
-#EXTGRP:unsorted
-https://edge01.iptv.digijadoo.net/live/fox_life/playlist.m3u8
 #EXTINF:0,History HD
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
@@ -645,7 +670,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/161.m3u8
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:0,Star Sports 3
 #EXTGRP:unsorted
-http://starshare.cc:41000/tuhin9/tuhin9/1080
+http://tv.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:0,Star Sports Select 1 HD
 #EXTGRP:unsorted
 http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
@@ -664,9 +689,27 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
 #EXTINF:0,Sony Ten 3 HD
 #EXTGRP:unsorted
 http://ddn.amrbd.com:8081/live/ten3hd/playlist.m3u8
+#EXTINF:0,Sky Cricket
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:0,Sky Sports Mix
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:0,Willow Cricket HD
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0,Dsports
 #EXTGRP:unsorted
 http://49.44.124.179/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0,Bein Sports 1 HD
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/bein-sports-1.m3u8
+#EXTINF:0,Bein sports 2 HD
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/bein-sports-2.m3u8
+#EXTINF:0,Bein Sports 11 HD
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:0,Eruo Sports 1 HD
 #EXTGRP:unsorted
 http://163.172.179.78:8081/tv/eurosport-1/chunks.m3u8
@@ -676,6 +719,9 @@ http://163.172.179.78:8081/tv/eurosport-2/chunks.m3u8
 #EXTINF:0,Csk HD
 #EXTGRP:unsorted
 http://185.105.4.244:1935/livesp/csktv1/chunklist_w64004839.m3u8
+#EXTINF:0,Ten Sports
+#EXTGRP:unsorted
+http://tv.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:unsorted
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
@@ -718,7 +764,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/189.m3u8
 #EXTINF:0,MTv Beats
 #EXTGRP:unsorted
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:0,Zing 
+#EXTINF:0,Zing
 #EXTGRP:unsorted
 http://iptv.kitv.live:1935/live/Shari/MTV-P/322.m3u8
 #EXTINF:0,9xm Music
