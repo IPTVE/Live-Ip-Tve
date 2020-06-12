@@ -412,7 +412,7 @@ http://ddn.amrbd.com:8081/live/sony-40/playlist.m3u8
 #EXTINF:0,Sony Sab SD
 #EXTGRP:unsorted
 http://103.205.133.14/hls/sonysab.m3u8
-#EXTINF:0,Sony Sab HD
+#EXTINF:0,.Sony Sab HD
 #EXTGRP:unsorted
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 #EXTINF:0,And Pictures HD
